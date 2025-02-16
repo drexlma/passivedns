@@ -4,4 +4,4 @@ Debian 12 (Bookworm)
     $ cp etc/init.d/passivedns-debian /etc/init.d/passivedns
     $ chmod 755 /etc/default/passivedns
     $ chmod 755 /etc/init.d/passivedns
-    $ /etc/init.d/passivedns-debian start
+    $ /etc/init.d/passivedns start
